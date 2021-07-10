@@ -219,44 +219,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]Duro de Matar[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/813/019/full/duro_matar_icon.png?1596595782</thumbnail>
-
-<externallink>https://pastebin.com/raw/U2XbKafk</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/1MaeSHwV4WWcx6MyfbqYPaBF9z9.jpg</fanart>
-
-<info>Die Hard (Duro de Matar) é uma série cinematográfica estadunidense de filmes de ação que teve início em 1988 com o filme-título, baseado no romance Nothing Lasts Forever de Roderick Thorp.
-[B][COLOR aquamarine]Número de Filmes:  9[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Jogos Mortais[/COLOR][/B]</name>
-
-<thumbnail>https://uploaddeimagens.com.br/images/002/818/155/full/Jogos_mortais_icon.png?1596838481</thumbnail>
-
-<externallink>https://pastebin.com/raw/RrynZ7qE</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/jQRuN5bbV4vaSfJzFKDn1J9Fc50.jpg</fanart>
-
-<info>Jigsaw é um assassino que possui uma marca registrada: ele deixa em suas vítimas uma cicatriz em forma de quebra-cabeças, que faz com que elas cometam atos igonizantes para se salvar. O detetive David Tapp (Danny Glover) é designado para investigar os assassinatos, bem como a capturar seu autor. Porém o caminho evasivo seguido por Jigsaw leva o detetive a desenvolver uma obsessão por capturá-lo.
-[B][COLOR aquamarine]Número de Filmes:  9[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<channel>
 <name>[B][COLOR aquamarine]De Volta Para o Futuro[/COLOR][/B]</name>
 
-<thumbnail>https://uploaddeimagens.com.br/images/002/813/241/full/de_volta_icon.png?1596626919</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg</thumbnail>
 
-<externallink>https://pastebin.com/raw/PAMMSeZk</externallink>
+<externallink>https://github.com/clickaddon/VOLTAHFUTURO/raw/main/voltahfuturo</externallink>
 
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/xwvPoLglKNX9hKexF8qnBGB9R1s.jpg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
 
 <info>Marty McFly (Michael J. Fox), Doc Brown (Christopher Lloyd) e um DeLorean viajam no tempo, na aventura de suas vidas, quando eles vão para o passado, o presente e o futuro, provocando uma reação em cadeia que rompe a continuidade de espaço e tempo! Dos cineastas Steven Spielberg, Robert Zemeckis e Bob Gate, De Volta Para o Futuro é uma incomparável trilogia que vence o teste do tempo.
 [B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]</info>
