@@ -1,329 +1,20 @@
 <channels>
 
 <channel>
+<name>[B][COLOR aquamarine]Anjos da noite[/COLOR][/B]</name>
 
-<name>[B][COLOR aquamarine]O Hobbit[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/LVSrtf3.jpg</thumbnail>
 
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/aMNeIznDBt1oOdVyBci3wRVTDjs.jpg</thumbnail>
+<externallink>https://github.com/clickaddon/ANJOSHNOITE/raw/main/anjoshnoite</externallink>
 
-<externallink>https://github.com/clickaddon/HOBBIT/raw/main/Hobbith</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg</fanart>
 
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg</fanart>
-
-<info>O Hobbit é uma série de filmes épicos de fantasia e de aventura dirigido, coescrito e produzido por Peter Jackson e baseado no livro The Hobbit de J. R. R. Tolkien publicado em 1937. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de "O Senhor dos Anéis".
-[B][COLOR aquamarine]Número de Filmes: 3[/COLOR][/B]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Senhor dos Aneis[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/7UJVffR2haKcGUKVTtCQcyudsNr.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/SRANEIS/raw/main/Sraneis</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/aCsiXUQfyC2VCTgVRctL1P66ZHT.jpg</fanart>
-
-<info>A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o "Anel do Poder" volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.
-[B][COLOR aquamarine]Número de Filmes: 3[/COLOR][/B]
-</info>
-
-</channel>
- 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]Harry Potter[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/tR6LcDEGLYOTU26aU2qxaEH3Tta.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/HARRYHPOTTER/raw/main/harryhpotter</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
-
-<info>Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.
-[B][COLOR aquamarine]Número de Filmes: 8 
-Bônus: 2[/COLOR][/B]
-</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
-
-<channel>
-
-<name>[B][COLOR aquamarine]Star Wars[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/v3e56rck9tv8zeMuNldJdtpgFeQ.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/STARHWARS/raw/main/starhwars</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/bMPfIfBZOUv7c357J8HliYJfpca.jpg</fanart>
-
-<info>Star Wars foi criada pelo cineasta George Lucas na década de 1970, que conta uma história que se passa há muito, em uma galáxia muito distante, formada por planetas desérticos, super habitados e selvagens, mas todos com a licença científica para ter a mesma gravidade e atmosfera igualmente habitáveis. O centro da trama é uma disputa política entre um império tirano e ditatorial e um grupo libertário. O enredo é permeado pela tragédia pessoal de Anakin Skywalker, um jedi (do bem) que sucumbe ao Lado Sombrio da Força (do mal) se transformando no vilão Darth Vader.
-[B][COLOR aquamarine]Número de Filmes: 9
-Bônus: 2[/COLOR][/B]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]Jurassic Park[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/JURRASICHPARK/raw/main/jurassichpark</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/oWvK8xtf6a7hutdrGCyAbEx8jIk.jpg</fanart>
-
-<info>Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.
-[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Matrix[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/17SXJnv2PVnBlifFckd61ZUKxCE.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/MATHRIX/raw/main/mathrix</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/bRm2DEgUiYciDw3myHuYFInD7la.jpg</fanart>
-
-<info>Thomas Anderson (Keanu Reeves) vive uma vida dupla. De dia, é um programador para uma companhia de software. De noite é um hacker, invadindo sistemas de computador ilegalmente e roubando informações, sob o apelido de Neo. Durante a sua vida como pirata informático, Neo cruza-se com uma pergunta constante: "O que é a Matrix?". Na busca da resposta, dedica-se de forma persistente a encontrar um suposto "terrorista" conhecido apenas como Morpheus. O que Neo não sabe é que o Morpheus o tem observado por um longo período de tempo.
-[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]
-</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/VEF/raw/main/vef</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/gC9BUFiROWtaMsluGYziZ6lR4OJ.jpg</fanart>
-
-<info>Franquia cheia de adrenalina e carros turbinados, Velozes e Furiosos tem ordem cronológica e de lançamento diferentes.
-Com nove filmes lançados e protagonistas que conquistaram o público, a saga Velozes e Furiosos é um sucesso de bilheteria. Quem é novo nesse universo, no entanto, talvez tenha dificuldade em entender a sequência certa dos filmes, já que alguns deles têm números enquanto outros nomes por extenso, e essas informações nem sempre ficam claras nos streamings. Aqui coloquei a ordem correta da cronologia Velozes e Furiosos. Prepare-se para a corrida!
-[B][COLOR aquamarine]Número de Filmes:  9[/COLOR][/B]
-</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]John Wick[/COLOR][/B]</name>
-
-<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/pZ4hR5IIoHHfNjot9rq4F96OGAi.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/JOHNWICKH/raw/main/johnwickh</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg</fanart>
-
-<info>John Wick é uma franquia americana de mídia e thriller de ação neo-noir criada pelo roteirista Derek Kolstad e de propriedade da Summit Entertainment. Keanu Reeves interpreta John Wick, um assassino aposentado que busca vingança pelo assassinato do cachorro que sua esposa recentemente faleceu.
-[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]
-</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Missão: Impossível[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/5eYwtPKh27aEWoklAdQQAwUjnsG.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/MISSAOHIMPOSSIVEL/raw/main/missaohipossivel</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/bEOri3OCJ7EKaruUSQhD8W6CPjn.jpg</fanart>
-
-<info>Missão: Impossível é uma franquia de espionagem icônica, baseada na série de TV da década de 1960. Consolidou Tom Cruise como astro de ação, do tipo que gosta de fazer suas próprias acrobacias que desafiam a morte.
-A série de filmes se tornou uma das principais da cultura pop e não deve parar tão cedo. Cruise está atualmente ligado aos filmes sete e oito, já confirmados. O sucesso ao longo de 25 anos se deve a contribuição que cada diretor trouxe aos filmes e, claro, a seu astro. Mas com uma franquia tão longeva, as vezes fica difícil lembrar de tudo, por isso indico assistirem a cronologia de Missão: Impossível.
-[B][COLOR aquamarine]Número de Filmes: 6[/COLOR][/B]
-</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]O Predador[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/PREDHADORES/raw/main/Predhador</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
-
-<info>Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
-[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]
-</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Rambo[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/mbhtWPsMy3tVEfiDpaaXJQQQimw.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/RAMBHO-/raw/main/rambho</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/qubc6gw5mIFBKM6LCiiWqqOxqZN.jpg</fanart>
-
-<info>Franquia de sucesso dos anos 80, Rambo é uma série de filmes baseada no romance "First Blood", de 1972, escrito por David Morrell, mas que tornou-se célebre pelos filmes protagonizados por Sylvester Stallone. A série tem como personagem principal o soldado boina verde e ex-combatente da Guerra do Vietnã John Rambo.
+<info>A franquia Underworld (Anjos da Noite no Brasil) começou a ser lançada em 2003. Seu primeiro filme, que leva o nome somente de Underworld, conta a história de uma guerra muito antiga entre vampiros e lobisomens, e como a vampira Selene (Kate Beckinsale) acaba descobrindo uma série de tramóias e corrupções dentro de seu próprio clã. A franquia sofreu uma série de perrengues ao longo dos anos, visto que foi acusada de plágio da grande rede de RPGs White Wolf, dos jogos Vampiro, a Máscara e Lobisomem Apocalipse. Porém, Underworld continuou a ser lançado até 2016, com o filme de pouco sucesso chamado Blood Wars.
 [B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR aquamarine]Mad Max[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/eHh8PeSSumkwXgDkNMyCshg22ik.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/MADHMAX/raw/main/madhmax</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/gwYe803SFwKlCF5y71OicWHUnVD.jpg</fanart>
-
-<info>Nos anais dos filmes de ação, poucos se comparam a este eletrizante épico que mistura velocidade e carnificina, que lança o espectador em uma paisagem desoladora e sequer imaginada, onde o futuro pós-guerra nuclear encontra o passado mitológico. Mais simplesmente, trata-se de um dos mais poderosos filmes de ação já feitos. Mel Gibson deixou sua marca na história da Sétima Arte como o herói solitário Max, que dirige o último dos V-8 pelas estradas que cortam o outback australiano em um infindável busca por gasolina.
-[B][COLOR aquamarine]Número de Filmes:  4[/COLOR][/B]</info>
 
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/vxiKtcxAJxHhlg2H1X8y7zcM3k6.jpg</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/clickaddon/EXTHERMINADOR/main/extherminador</externallink>
-
-<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
-
-<info>Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.
-[B][COLOR aquamarine]Número de Filmes:  6[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]De Volta Para o Futuro[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/VOLTAHFUTURO/raw/main/voltahfuturo</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
-
-<info>Marty McFly (Michael J. Fox), Doc Brown (Christopher Lloyd) e um DeLorean viajam no tempo, na aventura de suas vidas, quando eles vão para o passado, o presente e o futuro, provocando uma reação em cadeia que rompe a continuidade de espaço e tempo! Dos cineastas Steven Spielberg, Robert Zemeckis e Bob Gate, De Volta Para o Futuro é uma incomparável trilogia que vence o teste do tempo.
-[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Premonição[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/PREMHONICAO/raw/main/premhonicao</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/j69OJS9czQRdkGskMSAhNao3Ewd.jpg</fanart>
-
-<info>Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.
-[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Rocky[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/uzJVR5g25yX02zge2oCIJMlcG9Q.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/ROCKHY/raw/main/rockhy</externallink>
-
-<fanart>https://i.imgur.com/3mRpcmn.jpg</fanart>
-
-<info>Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.
-[B][COLOR aquamarine]Número de Filmes:  6
-Bônus: 2[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Piratas do Caribe[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/oGEenSmUimQcZyMjkpPilPweaPF.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/PIRATASHCARIBE/raw/main/piratashcaribe</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg</fanart>
-
-<info>Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.
-[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]MIB - Homens de Preto[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/1n1SduNkZ92m9gTlf4BhSqJoZf9.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/MIB/raw/main/mihb</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/iGEoxfkFZXQcqAkDUDpnjqGCN6R.jpg</fanart>
-
-<info>MIB - Homens de Preto é uma franquia de mídia que se originou com uma história em quadrinhos criada pelo americano Lowell Cunningham. A franquia se concentra na organização não-governamental fictícia de mesmo nome, que monitora e regula a atividade paranormal e alienígena na Terra, enquanto impede que os civis descubram sobre ela. Os agentes mais notáveis da organização são Zed, Jay e Kay. A franquia foi adaptada para outras mídias, incluindo uma série de quatro filmes, uma série de televisão animada e videogames.
-[B][COLOR aquamarine]Número de Filmes: 4[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Crepúsculo[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/mJOPwP3ZFygbCsR5jgAvNqirrLq.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/CREPHUSCULO/raw/main/crephusculo</externallink>
-
-<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/kriNR9A8Lhk2tFzbVQkhepXymEr.jpg</fanart>
-
-<info>Crepúsculo é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer que viraram filme. A saga conta a história de Isabella Swan (Bella), uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro.
-[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
-</channel>
-</channels>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-<name>[B][COLOR aquamarine]Jogos Vorazes[/COLOR][/B]</name>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/tpq93sfKJjq6EOWkhp3LN2HOuaW.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/JOGOSHVORAZES/raw/main/jogoshvorazes</externallink>
-
-<fanart>https://www.themoviedb.org/t/p/original/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg</fanart>
-
-<info>Katniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.
-[B][COLOR aquamarine]Número de Filmes:  4[/COLOR][/B]</info>
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]As Crônicas de Nárnia[/COLOR][/B]</name>
@@ -356,19 +47,136 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]Transformers[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]Crepúsculo[/COLOR][/B]</name>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/634HpDF95NXzfExXfmeDNPEwT3r.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/mJOPwP3ZFygbCsR5jgAvNqirrLq.jpg</thumbnail>
 
-<externallink>https://github.com/clickaddon/TRANSFHORMES/raw/main/transfhormes</externallink>
+<externallink>https://github.com/clickaddon/CREPHUSCULO/raw/main/crephusculo</externallink>
 
-<fanart>https://www.themoviedb.org/t/p/original/aXu1IYN7g7XINFWOc5yQfRQ3sf3.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/kriNR9A8Lhk2tFzbVQkhepXymEr.jpg</fanart>
 
-<info>A série Transformers segue a batalha contínua entre os Autobots e os Decepticons.
-[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
+<info>Crepúsculo é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer que viraram filme. A saga conta a história de Isabella Swan (Bella), uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro.
+[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]De Volta Para o Futuro[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/m3grRdVqV48ubeJu3Tifp5Q8bOx.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/VOLTAHFUTURO/raw/main/voltahfuturo</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg</fanart>
+
+<info>Marty McFly (Michael J. Fox), Doc Brown (Christopher Lloyd) e um DeLorean viajam no tempo, na aventura de suas vidas, quando eles vão para o passado, o presente e o futuro, provocando uma reação em cadeia que rompe a continuidade de espaço e tempo! Dos cineastas Steven Spielberg, Robert Zemeckis e Bob Gate, De Volta Para o Futuro é uma incomparável trilogia que vence o teste do tempo.
+[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]</info>
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Harry Potter[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/tR6LcDEGLYOTU26aU2qxaEH3Tta.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/HARRYHPOTTER/raw/main/harryhpotter</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg</fanart>
+
+<info>Assista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira.
+[B][COLOR aquamarine]Número de Filmes: 8 
+Bônus: 2[/COLOR][/B]
+</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+
+<channel>
+<name>[B][COLOR aquamarine]Jogos Vorazes[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/tpq93sfKJjq6EOWkhp3LN2HOuaW.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/JOGOSHVORAZES/raw/main/jogoshvorazes</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg</fanart>
+
+<info>Katniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.
+[B][COLOR aquamarine]Número de Filmes:  4[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]John Wick[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/pZ4hR5IIoHHfNjot9rq4F96OGAi.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/JOHNWICKH/raw/main/johnwickh</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg</fanart>
+
+<info>John Wick é uma franquia americana de mídia e thriller de ação neo-noir criada pelo roteirista Derek Kolstad e de propriedade da Summit Entertainment. Keanu Reeves interpreta John Wick, um assassino aposentado que busca vingança pelo assassinato do cachorro que sua esposa recentemente faleceu.
+[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Jurassic Park[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/63S4L7p7ljvKFFUuuaWKo8mHxBY.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/JURRASICHPARK/raw/main/jurassichpark</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/oWvK8xtf6a7hutdrGCyAbEx8jIk.jpg</fanart>
+
+<info>Jurassic Park é uma das franquias mais famosas do cinema, o primeiro e segundo filmes foram baseados nos livros de Michael Crichton, mas o diretor Steven Spielberg foi o responsável por dar o ponta pé inicial para que Jurassic Park ganhasse uma legião de fãs pelo Mundo. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.
+[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Mad Max[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/eHh8PeSSumkwXgDkNMyCshg22ik.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/MADHMAX/raw/main/madhmax</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/gwYe803SFwKlCF5y71OicWHUnVD.jpg</fanart>
+
+<info>Nos anais dos filmes de ação, poucos se comparam a este eletrizante épico que mistura velocidade e carnificina, que lança o espectador em uma paisagem desoladora e sequer imaginada, onde o futuro pós-guerra nuclear encontra o passado mitológico. Mais simplesmente, trata-se de um dos mais poderosos filmes de ação já feitos. Mel Gibson deixou sua marca na história da Sétima Arte como o herói solitário Max, que dirige o último dos V-8 pelas estradas que cortam o outback australiano em um infindável busca por gasolina.
+[B][COLOR aquamarine]Número de Filmes:  4[/COLOR][/B]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Matrix[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/17SXJnv2PVnBlifFckd61ZUKxCE.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/MATHRIX/raw/main/mathrix</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/bRm2DEgUiYciDw3myHuYFInD7la.jpg</fanart>
+
+<info>Thomas Anderson (Keanu Reeves) vive uma vida dupla. De dia, é um programador para uma companhia de software. De noite é um hacker, invadindo sistemas de computador ilegalmente e roubando informações, sob o apelido de Neo. Durante a sua vida como pirata informático, Neo cruza-se com uma pergunta constante: "O que é a Matrix?". Na busca da resposta, dedica-se de forma persistente a encontrar um suposto "terrorista" conhecido apenas como Morpheus. O que Neo não sabe é que o Morpheus o tem observado por um longo período de tempo.
+[B][COLOR aquamarine]Número de Filmes:  3[/COLOR][/B]
+</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 <name>[B][COLOR aquamarine]Maze Runner[/COLOR][/B]</name>
@@ -386,6 +194,131 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
+<name>[B][COLOR aquamarine]MIB - Homens de Preto[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/1n1SduNkZ92m9gTlf4BhSqJoZf9.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/MIB/raw/main/mihb</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/iGEoxfkFZXQcqAkDUDpnjqGCN6R.jpg</fanart>
+
+<info>MIB - Homens de Preto é uma franquia de mídia que se originou com uma história em quadrinhos criada pelo americano Lowell Cunningham. A franquia se concentra na organização não-governamental fictícia de mesmo nome, que monitora e regula a atividade paranormal e alienígena na Terra, enquanto impede que os civis descubram sobre ela. Os agentes mais notáveis da organização são Zed, Jay e Kay. A franquia foi adaptada para outras mídias, incluindo uma série de quatro filmes, uma série de televisão animada e videogames.
+[B][COLOR aquamarine]Número de Filmes: 4[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Missão: Impossível[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/5eYwtPKh27aEWoklAdQQAwUjnsG.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/MISSAOHIMPOSSIVEL/raw/main/missaohipossivel</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/bEOri3OCJ7EKaruUSQhD8W6CPjn.jpg</fanart>
+
+<info>Missão: Impossível é uma franquia de espionagem icônica, baseada na série de TV da década de 1960. Consolidou Tom Cruise como astro de ação, do tipo que gosta de fazer suas próprias acrobacias que desafiam a morte.
+A série de filmes se tornou uma das principais da cultura pop e não deve parar tão cedo. Cruise está atualmente ligado aos filmes sete e oito, já confirmados. O sucesso ao longo de 25 anos se deve a contribuição que cada diretor trouxe aos filmes e, claro, a seu astro. Mas com uma franquia tão longeva, as vezes fica difícil lembrar de tudo, por isso indico assistirem a cronologia de Missão: Impossível.
+[B][COLOR aquamarine]Número de Filmes: 6[/COLOR][/B]
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Exterminador do Futuro[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/vxiKtcxAJxHhlg2H1X8y7zcM3k6.jpg</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/clickaddon/EXTHERMINADOR/main/extherminador</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/4T7AizDnNLr2RcDLIZk32ZDVLYg.jpg</fanart>
+
+<info>Terminator (Exterminador do Futuro) é o título de uma franquia de ficção científica criada em 1984 por James Cameron com o filme The Terminator. Desde então, o filme teve 6 sequências no cinema, a série de televisão Terminator: The Sarah Connor Chronicles, e vários livros, video games e arte sequencial. Terminator é centrada na guerra entre a inteligência artificial Skynet e a resistência humana liderada por John Connor, em que a Skynet faz uso de ciborgues similares a humanos conhecidos por Exterminadores.
+[B][COLOR aquamarine]Número de Filmes:  6[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]O Hobbit[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/aMNeIznDBt1oOdVyBci3wRVTDjs.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/HOBBIT/raw/main/Hobbith</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/7wO7MSnP5UcwR2cTHdJFF1vP4Ie.jpg</fanart>
+
+<info>O Hobbit é uma série de filmes épicos de fantasia e de aventura dirigido, coescrito e produzido por Peter Jackson e baseado no livro The Hobbit de J. R. R. Tolkien publicado em 1937. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de "O Senhor dos Anéis".
+[B][COLOR aquamarine]Número de Filmes: 3[/COLOR][/B]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]O Predador[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/PREDHADORES/raw/main/Predhador</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/vNEC0xWeIOStnPeTPIBDGUGMzKT.jpg</fanart>
+
+<info>Para os mais novos e os que não conhecem a fundo, vale lembrar que O Predador é um filme de 1987, que gerou duas sequelas, Predador 2 (1990), e Predadores (2010), dois filmes em crossover com a franquia Alien vs. Predator: Alien vs. Predator (2004) e Alien vs. Predador 2 (2007), e uma espécie de reboot, The Predator (2018).
+[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]
+</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Piratas do Caribe[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/oGEenSmUimQcZyMjkpPilPweaPF.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/PIRATASHCARIBE/raw/main/piratashcaribe</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/8ihvqSlfo2hdPG6qXTfZYm38S1l.jpg</fanart>
+
+<info>Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.
+[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Premonição[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/mu8JSWvoxAj80gLBpBuXVi4bsa0.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/PREMHONICAO/raw/main/premhonicao</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/j69OJS9czQRdkGskMSAhNao3Ewd.jpg</fanart>
+
+<info>Premonição é uma série de filmes de terror centrados nos temas fatalismo, predestinação e precognição, em relação à morte.
+[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Rambo[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/mbhtWPsMy3tVEfiDpaaXJQQQimw.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/RAMBHO-/raw/main/rambho</externallink>
+
+<fanart>https://image.tmdb.org/t/p/original/qubc6gw5mIFBKM6LCiiWqqOxqZN.jpg</fanart>
+
+<info>Franquia de sucesso dos anos 80, Rambo é uma série de filmes baseada no romance "First Blood", de 1972, escrito por David Morrell, mas que tornou-se célebre pelos filmes protagonizados por Sylvester Stallone. A série tem como personagem principal o soldado boina verde e ex-combatente da Guerra do Vietnã John Rambo.
+[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
 <name>[B][COLOR aquamarine]Resident Evil[/COLOR][/B]</name>
 
 <thumbnail>https://www.themoviedb.org/t/p/original/5ETUTjVmac01MkWHH5xi05z7ifi.jpg</thumbnail>
@@ -401,17 +334,87 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
-<name>[B][COLOR aquamarine]Anjos da noite[/COLOR][/B]</name>
+<name>[B][COLOR aquamarine]Rocky[/COLOR][/B]</name>
 
-<thumbnail>https://i.imgur.com/LVSrtf3.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/uzJVR5g25yX02zge2oCIJMlcG9Q.jpg</thumbnail>
 
-<externallink>https://github.com/clickaddon/ANJOSHNOITE/raw/main/anjoshnoite</externallink>
+<externallink>https://github.com/clickaddon/ROCKHY/raw/main/rockhy</externallink>
 
-<fanart>https://www.themoviedb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg</fanart>
+<fanart>https://i.imgur.com/3mRpcmn.jpg</fanart>
 
-<info>A franquia Underworld (Anjos da Noite no Brasil) começou a ser lançada em 2003. Seu primeiro filme, que leva o nome somente de Underworld, conta a história de uma guerra muito antiga entre vampiros e lobisomens, e como a vampira Selene (Kate Beckinsale) acaba descobrindo uma série de tramóias e corrupções dentro de seu próprio clã. A franquia sofreu uma série de perrengues ao longo dos anos, visto que foi acusada de plágio da grande rede de RPGs White Wolf, dos jogos Vampiro, a Máscara e Lobisomem Apocalipse. Porém, Underworld continuou a ser lançado até 2016, com o filme de pouco sucesso chamado Blood Wars.
-[B][COLOR aquamarine]Número de Filmes:  5[/COLOR][/B]</info>
+<info>Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.
+[B][COLOR aquamarine]Número de Filmes:  6
+Bônus: 2[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Senhor dos Aneis[/COLOR][/B]</name>
+
+<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/7UJVffR2haKcGUKVTtCQcyudsNr.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/SRANEIS/raw/main/Sraneis</externallink>
+
+<fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/aCsiXUQfyC2VCTgVRctL1P66ZHT.jpg</fanart>
+
+<info>A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o "Anel do Poder" volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.
+[B][COLOR aquamarine]Número de Filmes: 3[/COLOR][/B]
+</info>
+
+</channel>
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Star Wars[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/v3e56rck9tv8zeMuNldJdtpgFeQ.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/STARHWARS/raw/main/starhwars</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/bMPfIfBZOUv7c357J8HliYJfpca.jpg</fanart>
+
+<info>Star Wars foi criada pelo cineasta George Lucas na década de 1970, que conta uma história que se passa há muito, em uma galáxia muito distante, formada por planetas desérticos, super habitados e selvagens, mas todos com a licença científica para ter a mesma gravidade e atmosfera igualmente habitáveis. O centro da trama é uma disputa política entre um império tirano e ditatorial e um grupo libertário. O enredo é permeado pela tragédia pessoal de Anakin Skywalker, um jedi (do bem) que sucumbe ao Lado Sombrio da Força (do mal) se transformando no vilão Darth Vader.
+[B][COLOR aquamarine]Número de Filmes: 9
+Bônus: 2[/COLOR][/B]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+<name>[B][COLOR aquamarine]Transformers[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/634HpDF95NXzfExXfmeDNPEwT3r.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/TRANSFHORMES/raw/main/transfhormes</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/aXu1IYN7g7XINFWOc5yQfRQ3sf3.jpg</fanart>
+
+<info>A série Transformers segue a batalha contínua entre os Autobots e os Decepticons.
+[B][COLOR aquamarine]Número de Filmes: 5[/COLOR][/B]</info>
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+<name>[B][COLOR aquamarine]Velozes e Furiosos[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg</thumbnail>
+
+<externallink>https://github.com/clickaddon/VEF/raw/main/vef</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/gC9BUFiROWtaMsluGYziZ6lR4OJ.jpg</fanart>
+
+<info>Franquia cheia de adrenalina e carros turbinados, Velozes e Furiosos tem ordem cronológica e de lançamento diferentes.
+Com nove filmes lançados e protagonistas que conquistaram o público, a saga Velozes e Furiosos é um sucesso de bilheteria. Quem é novo nesse universo, no entanto, talvez tenha dificuldade em entender a sequência certa dos filmes, já que alguns deles têm números enquanto outros nomes por extenso, e essas informações nem sempre ficam claras nos streamings. Aqui coloquei a ordem correta da cronologia Velozes e Furiosos. Prepare-se para a corrida!
+[B][COLOR aquamarine]Número de Filmes:  9[/COLOR][/B]
+</info>
 </channel>
 
 </channels>
+
 
